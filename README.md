@@ -1,5 +1,3 @@
-markdown
-Copy
 # Olá, eu sou Jhuan Camargo! 👋
 
 ## Sobre Mim
