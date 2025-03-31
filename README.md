@@ -1,8 +1,6 @@
 # Olá, eu sou Jhuan Camargo! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/JhuanCamargo?style=social)
-
-Desenvolvedor apaixonado por tecnologia, especializado em **automação de processos**, **integração de sistemas** e **desenvolvimento de soluções personalizadas**. Meu foco é criar ferramentas que otimizem fluxos de trabalho, resolvam problemas reais e entreguem valor de forma eficiente.
+Desenvolvedor especializado em **automação de processos**, **integração de sistemas** e **desenvolvimento de soluções personalizadas**. Meu foco é criar ferramentas que otimizem fluxos de trabalho, resolvam problemas reais e entreguem valor de forma eficiente.
 
 ---
 
