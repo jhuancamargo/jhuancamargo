@@ -2,7 +2,17 @@
 
 Desenvolvedor especializado em **automação de processos**, **integração de sistemas** e **desenvolvimento de soluções personalizadas**. Meu foco é criar ferramentas que otimizem fluxos de trabalho, resolvam problemas reais e entreguem valor de forma eficiente.
 
+
 ---
+
+## Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhuanCamargo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanCamargo&layout=compact&theme=dark" alt="Linguagens mais usadas" width="300"/>
+</div>
+
+---
+
 
 ## Sobre Mim
 - 💻 **Experiência**: Trabalho com automação, integração e desenvolvimento full-stack, transformando ideias em soluções práticas.
@@ -50,15 +60,6 @@ Desenvolvedor especializado em **automação de processos**, **integração de s
 - 📫 **E-mail**: [jhuanscamargo@gmail.com](mailto:jhuanscamargo@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/jhuancamargo](https://www.linkedin.com/in/jhuancamargo)
 
----
-
-## Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhuanCamargo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanCamargo&layout=compact&theme=dark" alt="Linguagens mais usadas" width="300"/>
-</div>
-
----
 
 ## Contribuições
 - 🌟 Estou aberto a colaborações em projetos open-source!
