@@ -4,7 +4,7 @@ Desenvolvedor especializado em **automação de processos**, **integração de s
 
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JhuanCamargo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanCamargo&layout=compact&theme=dark" alt="Linguagens mais usadas" width="300"/>
 </div>
