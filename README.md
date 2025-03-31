@@ -3,9 +3,7 @@
 Desenvolvedor especializado em **automação de processos**, **integração de sistemas** e **desenvolvimento de soluções personalizadas**. Meu foco é criar ferramentas que otimizem fluxos de trabalho, resolvam problemas reais e entreguem valor de forma eficiente.
 
 
----
 
-## Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JhuanCamargo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanCamargo&layout=compact&theme=dark" alt="Linguagens mais usadas" width="300"/>
