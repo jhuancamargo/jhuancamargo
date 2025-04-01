@@ -33,7 +33,7 @@ Desenvolvedor especializado em **automação de processos**, **integração de s
 ---
 
 ## Projetos Destacados
-1. **[Teste Intuitive Care](https://github.com/JhuanCamargo/Teste-Intuitive-Care-VPS)**  
+1.
    - Sistema completo de coleta, transformação e análise de dados da ANS.
    - **Tecnologias**: Python (Flask), Vue.js, PostgreSQL, Git.
    - **Destaques**: Web scraping, transformação de PDFs, API com interface em abas
