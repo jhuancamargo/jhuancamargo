@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | Python, Node.js & Vue.js</h3>
 
 <p align="center">
-  🌍 <strong>Based in Brazil | 🇪🇸 Spanish National (EU Work Authorization)</strong>
+  🌍 <strong>Based in Brazil | 🇪🇸 Spanish National </strong>
 </p>
 
 <p align="center">
