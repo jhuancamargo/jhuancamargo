@@ -67,5 +67,5 @@ I am a Software Engineer specialized in **backend architecture**, **database opt
 ---
 
 <p align="center">
-  <i>"I love tackling tough technical challenges and finding creative ways to solve them."</i> ⚡
+  <i>"Knowledge is power. Code is just the tool we use to apply it and build great things."</i>
 </p>
