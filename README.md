@@ -1,66 +1,71 @@
-# Olá, eu sou Jhuan Camargo! 👋
+<h1 align="center">Hi there 👋 I'm Jhuan Camargo</h1>
+<h3 align="center">Full-Stack Software Engineer | Python, Node.js & Vue.js</h3>
 
-Desenvolvedor especializado em **automação de processos**, **integração de sistemas** e **desenvolvimento de soluções personalizadas**. Meu foco é criar ferramentas que otimizem fluxos de trabalho, resolvam problemas reais e entreguem valor de forma eficiente.
+<p align="center">
+  🌍 <strong>Based in Brazil | 🇪🇸 Spanish National (EU Work Authorization)</strong>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/jhuancamargo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jhuanscamargo@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhuanCamargo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanCamargo&layout=compact&theme=dark" alt="Linguagens mais usadas" width="300"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhuanCamargo&show_icons=true&theme=dark&hide_border=true" alt="Jhuan's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanCamargo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300"/>
 </div>
 
 ---
 
+## 👨‍💻 About Me
 
-## Sobre Mim
-- 💻 **Experiência**: Trabalho com automação, integração e desenvolvimento full-stack, transformando ideias em soluções práticas.
-- 🚀 **Objetivo**: Desenvolver sistemas robustos e escaláveis que aumentem a produtividade e simplifiquem processos.
-- 🌱 **Aprendizado**: Sempre explorando novas tecnologias, como IA, DevOps e cloud computing.
-- ⚡ **Curiosidade**: Adoro desafios técnicos e encontrar maneiras criativas de resolvê-los!
+I am a Software Engineer specialized in **backend architecture**, **database optimization**, and **process automation**. My focus is on transforming complex business rules into robust, high-performance scalable systems (SaaS) and creating tools that eliminate manual workflows.
 
----
-
-## Habilidades
-| **Categoria**            | **Tecnologias**                          |
-|--------------------------|------------------------------------------|
-| **Linguagens**           | Python, C#, JavaScript (Vue.js)          |
-| **Automação**            | Scripts, Web Scraping, Processos         |
-| **Integração**           | APIs REST, Webhooks                     |
-| **Banco de Dados**       | SQL Server, MySQL, PostgreSQL            |
-| **Ferramentas**          | Git, Docker, Azure DevOps, Postman       |
-| **Infraestrutura**       | Cloud (VPS), Deploy de Aplicações        |
+- 🔭 **Currently building:** Commercial B2B SaaS platforms and real-time data processing systems.
+- ⚙️ **What I excel at:** Developing secure RESTful APIs, optimizing PostgreSQL/SQL Server queries, and building reactive interfaces (Vue.js/React).
+- 📈 **Recent Impact:** Reduced critical data incidents by 95% in high-volume corporate systems and engineered greenfield applications with 99.9% uptime.
+- 🌱 **Always learning:** AI integration, Advanced Cloud Architecture, and DevOps.
 
 ---
 
-## Projetos Destacados
-1.
-   - Sistema completo de coleta, transformação e análise de dados da ANS.
-   - **Tecnologias**: Python (Flask), Vue.js, PostgreSQL, Git.
-   - **Destaques**: Web scraping, transformação de PDFs, API com interface em abas
+## 🛠️ Tech Stack & Tools
 
-2. **Automação de Processos**  
-   - Scripts para eliminar tarefas manuais repetitivas, reduzindo erros e economizando tempo.
-   - **Tecnologias**: Python, `pandas`, `BeautifulSoup`.
+**Backend & Architecture** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/> 
 
-3. **Integração de Sistemas**  
-   - APIs REST para conectar plataformas e garantir fluxo contínuo de dados.
-   - **Tecnologias**: C#, Python (Flask), Webhooks.
+**Frontend & Design** <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-4. **Soluções Personalizadas**  
-   - Aplicações sob medida para atender demandas específicas de negócios.
-   - **Tecnologias**: JavaScript, SQL Server, Docker.
-
-*(Confira mais projetos no meu [GitHub](https://github.com/JhuanCamargo?tab=repositories))*
+**Database & DevOps** <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 
 ---
 
-## Contato
-- 📫 **E-mail**: [jhuanscamargo@gmail.com](mailto:jhuanscamargo@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/jhuancamargo](https://www.linkedin.com/in/jhuancamargo)
+## 🚀 Featured Projects
 
+### 1. ProntoPDV (B2B SaaS Platform)
+- Architected and launched a commercial POS SaaS from scratch, managing real financial transactions.
+- **Tech:** Node.js, Vue.js 3, Pinia, Multi-tenant Database.
+- **Highlight:** Engineered a high-concurrency SPA that reduced data latency for table management by 40%.
 
-## Contribuições
-- 🌟 Estou aberto a colaborações em projetos open-source!
-- 💡 Sugestões ou ideias? Envie-me uma mensagem!
+### 2. ANS Data Pipeline & Analysis
+- Complete system for data extraction, transformation, and analysis of ANS regulatory data.
+- **Tech:** Python (Flask), Vue.js, PostgreSQL.
+- **Highlight:** Advanced web scraping, PDF transformation, and a custom API with a tabbed reactive interface.
 
-Obrigado por visitar meu perfil! 🚀
+### 3. J-Helper (Global Automation Suite)
+- Engineered a Python automation tool using OCR for real-time data extraction.
+- **Tech:** Python, C, Lua.
+- **Highlight:** Built a custom encrypted licensing and key validation system for secure global software distribution.
+
+### 4. Empregos014 (High-Traffic Job Board)
+- Built a regional recruitment portal optimized to handle high concurrent traffic.
+- **Tech:** Full-Stack Architecture.
+- **Highlight:** Processed 5,000+ resumes and facilitated 400+ hires with an optimized mobile-first UX.
+
+---
+
+<p align="center">
+  <i>"I love tackling tough technical challenges and finding creative ways to solve them."</i> ⚡
+</p>
