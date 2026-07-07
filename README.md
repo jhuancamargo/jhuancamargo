@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Jhuan Camargo</h1>
+<h1 align="center">About me:</h1>
 <h3 align="center">Full-Stack Software Engineer | Python, Node.js & Vue.js</h3>
 
 <p align="center">
