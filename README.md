@@ -18,7 +18,19 @@ Turns photos, sketches and floor plans into editable DXF files for AutoCAD. Thre
 Kanban task manager built by a team of 10 in a bootcamp. I built the base of the project: backend, frontend and database integration.  
 `Python` `FastAPI` `SQLAlchemy` `Vue 3` `PostgreSQL` `Docker`
 
-Most of my work is in private repositories: a management system for bars and restaurants, an online 2D game, a data pipeline and others. Details at [jhuandev.com](https://jhuandev.com).
+## Private projects
+
+The source code is private; these pages cover the stack, the architecture and the problems I solved.
+
+**[restaurant-management-saas](https://github.com/jhuancamargo/restaurant-management-saas)**  
+Multi-tenant SaaS for bars and restaurants: POS, stock, payments and e-invoicing.  
+`Django REST` `Vue 3` `PostgreSQL` `Stripe` `Docker`
+
+**[online-2d-game](https://github.com/jhuancamargo/online-2d-game)**  
+Multiplayer 2D game: C++ server, Lua gameplay, PHP web platform, payments and monitoring.  
+`C++23` `Lua` `PHP` `MariaDB` `Linux`
+
+More at [jhuandev.com](https://jhuandev.com).
 
 ## Stack
 
