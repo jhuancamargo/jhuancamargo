@@ -1,66 +1,33 @@
-<h1 align="center">Hello!:</h1>
-<h3 align="center">Full-Stack Software Engineer | Python, Node.js & Vue.js</h3>
+# Jhuan Camargo
 
-<p align="center">
-  🌍 <strong>Based in Brazil | 🇪🇸 Spanish National </strong>
-</p>
+Backend and full-stack developer · Bauru, Brazil · Spanish citizen
 
-<p align="center">
-  <a href="https://linkedin.com/in/jhuancamargo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jhuanscamargo@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+I build applications from the database to the interface: Python and Django APIs, Vue frontends and Linux infrastructure. I also develop 2D games in C++.
 
----
+At work, I'm a developer on legacy VB6 systems with PostgreSQL and SQL Server in the financial sector. I debug the code, track down errors and data inconsistencies in banking data imports, and document every case as Fact / Cause / Action.
 
-## 👨‍💻 About Me
+**[jhuandev.com](https://jhuandev.com)** · [LinkedIn](https://www.linkedin.com/in/jhuancamargo/) · [Email](mailto:jhuanscamargo@gmail.com)
 
-I am a Software Engineer specialized in **backend architecture**, **database optimization**, and **process automation**. My focus is on transforming complex business rules into robust, high-performance scalable systems (SaaS) and creating tools that eliminate manual workflows.
+## Public projects
 
-- 🔭 **Currently building:** Commercial B2B SaaS platforms and real-time data processing systems.
-- ⚙️ **What I excel at:** Developing secure RESTful APIs, optimizing PostgreSQL/SQL Server queries, and building reactive interfaces (Vue.js/React).
-- 📈 **Recent Impact:** Reduced critical data incidents by 95% in high-volume corporate systems and engineered greenfield applications with 99.9% uptime.
-- 🌱 **Always learning:** AI integration, Advanced Cloud Architecture, and DevOps.
+**[meu-conversor-cad](https://github.com/jhuancamargo/meu-conversor-cad)**  
+Turns photos, sketches and floor plans into editable DXF files for AutoCAD. Three conversion modes: deep-learning edge detection (HED) for photos, Otsu for scans and Canny for digital images.  
+`Python` `FastAPI` `PyTorch` `OpenCV` `ezdxf` `Docker`
 
----
+**[teste_intuitive-care](https://github.com/jhuancamargo/teste_intuitive-care)**  
+Data pipeline for Brazil's ANS health-insurance data: scraping, PDF table extraction, financial analysis in PostgreSQL, a Python API and a Vue interface. Built as a technical test.  
+`Python` `Pandas` `Flask` `PostgreSQL` `Vue` `pytest`
 
-## 🛠️ Tech Stack & Tools
+**[taskflow-bootcamp](https://github.com/jhuancamargo/taskflow-bootcamp)**  
+Kanban task manager built by a team of 10 in a bootcamp. I built the base of the project: backend, frontend and database integration.  
+`Python` `FastAPI` `SQLAlchemy` `Vue 3` `PostgreSQL` `Docker`
 
-**Backend & Architecture** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/> 
+Most of my work is in private repositories: a management system for bars and restaurants, an online 2D game and others. Details at [jhuandev.com](https://jhuandev.com).
 
-**Frontend & Design** <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+## Stack
 
-**Database & DevOps** <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-
----
-
-## 🚀 Featured Projects
-
-### 1. ProntoPDV (B2B SaaS Platform)
-- Architected and launched a commercial POS SaaS from scratch, managing real financial transactions.
-- **Tech:** Node.js, Vue.js 3, Pinia, Multi-tenant Database.
-- **Highlight:** Engineered a high-concurrency SPA that reduced data latency for table management by 40%.
-
-### 2. ANS Data Pipeline & Analysis
-- Complete system for data extraction, transformation, and analysis of ANS regulatory data.
-- **Tech:** Python (Flask), Vue.js, PostgreSQL.
-- **Highlight:** Advanced web scraping, PDF transformation, and a custom API with a tabbed reactive interface.
-
-### 3. J-Helper (Global Automation Suite)
-- Engineered a Python automation tool using OCR for real-time data extraction.
-- **Tech:** Python, C, Lua.
-- **Highlight:** Built a custom encrypted licensing and key validation system for secure global software distribution.
-
-### 4. Empregos014 (High-Traffic Job Board)
-- Built a regional recruitment portal optimized to handle high concurrent traffic.
-- **Tech:** Full-Stack Architecture.
-- **Highlight:** Processed 5,000+ resumes and facilitated 400+ hires with an optimized mobile-first UX.
-
----
-
-<p align="center">
-  <i>"Knowledge is power. Code is just the tool we use to apply it and build great things."</i>
-</p>
+**Languages** · Python, JavaScript, TypeScript, SQL, C++, Lua, PHP, VB6  
+**Backend** · Django, Django REST Framework, FastAPI, Flask, SQLAlchemy  
+**Frontend** · Vue 3, React, Next.js, Tailwind CSS  
+**Databases** · PostgreSQL, SQL Server, MariaDB, Redis  
+**Infrastructure** · Linux, Docker, Nginx, Cloudflare, GitHub Actions
